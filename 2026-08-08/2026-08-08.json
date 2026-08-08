@@ -1,126 +1,23 @@
 {
-  "hero_headline": "OpenAI升级Astra至关键网络防御级别",
-  "daily_overview": "科技方面，OpenAI 将 Astra 评为「关键」级网络能力并强化安全管控，GPT-5.6 系列扩大免费使用范围；DeepMind 展示多机器人协作新进展。财经方面，美国 7 月就业意外减少 2.3 万，Meta 因儿童安全案累计被罚 9.42 亿美元，柴油与风电政策显示能源市场变局。时政方面，俄军再袭基辅致平民伤亡，特朗普签署新行政令涉及出生公民权，台湾「汉光演习」首次纳入随军记者机制。",
+  "hero_headline": "OpenAI 将 Astra 列为关键网络能力，强化安防",
+  "daily_overview": "科技侧，OpenAI 将 Astra 网络安全能力升级为「关键」级别，GPT-5.6 Luna 向免费用户开放；DeepMind 发布机器人模型 ER 2，AMD 收购 AI 芯片创企 Taalas。财经侧，美国 7 月非农就业意外减少 2.3 万人，Meta 因儿童安全案累计被罚逾 9 亿美元，特朗普政府花 12 亿美元叫停德企风电项目。时政侧，俄军导弹袭击基辅周边致儿童遇难，特朗普签署限制出生公民权新令，北美野火烟霾健康风险持续发酵。",
   "tech_briefs": [
     {
-      "title": "OpenAI 将 Astra 升级为关键网络能力并强化防护",
+      "title": "OpenAI 强化 Astra 网络安全评估与防护措施",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "source": "OpenAI News",
-      "summary": "OpenAI 发布对 Astra 的初步网络安全评估，将其列入「关键」级别，因代理式编码与网络能力显著增强，已暂停部分活动以强化安全控制。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "GPT-5.6 更新：Sol 更准确，Luna 向免费用户开放",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI News",
-      "summary": "ChatGPT 推出改进版 GPT-5.6 Sol，提升准确性与一致性；同时扩大 GPT-5.6 Luna 对免费用户的开放范围，并支持每日无限聊天。",
-      "importance": 7
-    },
-    {
-      "title": "DeepMind 发布机器人模型 Gemini Robotics ER 2",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "source": "DeepMind Blog",
-      "summary": "新模型增强视频理解、工具调用与多机器人协作，使机器人能推理、协作并完成真实世界任务，被视为机器人应用的一步跃迁。",
-      "importance": 7
-    },
-    {
-      "title": "AMD 收购 Taalas 强化推理芯片布局",
-      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
-      "source": "Latent Space",
-      "summary": "AMD 收购 AI 芯片公司 Taalas，聚焦推理基础设施，被视为推理成本竞争加剧的信号，引发多家科技媒体关注其战略影响。",
-      "importance": 6
-    },
-    {
-      "title": "GitHub 热门：自我改进 RLM 代理开源",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "source": "GitHub Trending",
-      "summary": "开源项目 prime-agent 是面向编码工作流与长时自主任务的自我改进 RLM 代理。它利用可验证奖励的强化学习优化长程任务中的关键决策，缓解奖励稀疏与信用分配难题。",
-      "importance": 6
-    }
-  ],
-  "finance_briefs": [
-    {
-      "title": "美国 7 月就业意外下降 2.3 万",
-      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "7 月美国就业岗位减少 2.3 万个，与分析师预期的新增相反，显示夏季就业市场持续疲软。",
-      "importance": 8
-    },
-    {
-      "title": "Meta 因儿童安全案被罚 5.67 亿美元",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "法院在原有 3.75 亿美元罚款基础上，再对 Meta 处以 5.67 亿美元罚金，合计 9.42 亿美元，为针对社交媒体巨头的最大儿童安全裁决。",
-      "importance": 7
-    },
-    {
-      "title": "战争推升柴油供应紧张，冬季或更严峻",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-08/war-brings-winter-of-discontent-for-the-world-s-workhorse-fuel",
-      "source": "Bloomberg Markets",
-      "summary": "中东与乌克兰战事导致柴油供应趋紧，随着北半球冬季需求上升，全球或面临更严重的柴油短缺。",
-      "importance": 7
-    },
-    {
-      "title": "印度 IT 业在 AI 冲击下仍具韧性",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
-      "source": "The Economist Finance",
-      "summary": "尽管生成式 AI 令编程入门岗位承压，印度 IT 服务业整体保持增长，但毕业生就业难度仍在上升。",
-      "importance": 6
-    },
-    {
-      "title": "美政府向德企支付 12 亿美元叫停风电项目",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "特朗普政府同意向德国 RWE 支付 12 亿美元，以终止美国风电项目，延续其对风电的一贯批评。",
-      "importance": 6
-    }
-  ],
-  "politics_briefs": [
-    {
-      "title": "俄导弹袭击基辅附近，三名平民遇难",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "俄罗斯连夜袭击基辅附近地区，造成包括一名儿童在内三人死亡；泽连斯基此前警告乌克兰拦截导弹库存不足。",
+      "summary": "OpenAI 公布新一代 Astra 模型的网络安全评估，将其升级为「关键」网络能力，暂停部分活动并强化安全控制与防护机制。（多家报道）",
       "importance": 9
     }
   ],
+  "finance_briefs": [],
+  "politics_briefs": [],
   "editor_note": "",
   "keywords": [],
   "trading": {
-    "market_overview": "美股整体偏强：SPY、QQQ 均保持多头排列，SPY 距 52 周高仅 0.46%、RSI 66，NVDA 近 5 日涨 11.56% 并现 MACD 金叉；但 MSFT RSI 78.1 进入超买，TSLA 仍处空头结构。加密资产在恐慌贪婪指数 30（恐慌）及总市值 2.29T USD 背景下技术结构偏弱：BTC 虽现 MACD 金叉且高于 20/50 日均线，但仍低于 200 日均线，距 52 周高 -48.55%；ETH 站上 20/50 日均线但反弹力度有限。中概股分化，BABA 涨至 RSI 67.9 偏强，JD 超买但趋势中性。商品外汇方面，黄金近 5 日升 8.66%、站上 50 日线且 MACD 柱体转正，动量强；原油近 5 日跌 7.67% 且现 MACD 死叉；美元指数 RSI 36.2 偏弱，美元/人民币接近超卖。整体各资产多空混合，趋势资产仍以美股多头与黄金反弹为代表。",
-    "watchlist": [
-      {
-        "symbol": "NVDA",
-        "display_name": "英伟达 (NVDA)",
-        "stance": "偏上行",
-        "rationale": "当前价 223.96，站上 SMA20（206.82）与 SMA50（206.07），MACD 值 3.05 高于信号线 0.55，呈金叉与多头排列；RSI 14 为 64.4，处于正常偏强区；近 5 日涨 11.56%、近 1 日涨 2.27%，动能明显。距 52 周高回撤 5.32%，技术面整体偏上行。"
-      },
-      {
-        "symbol": "TSLA",
-        "display_name": "特斯拉 (TSLA)",
-        "stance": "偏下行",
-        "rationale": "当前价 328.58 低于 SMA20（343.33）、SMA50（380.44）与 SMA200（408.80），呈空头排列；RSI 14 为 41.4，位于中轴下方；MACD 为 -19.76，信号线 -20.78，虽柱体边际转正但整体仍处负值区，趋势延续下行。距 52 周高回撤 34.13%，近 5 日反弹 5.58% 后仍处弱势结构，技术面偏下行。"
-      },
-      {
-        "symbol": "GC=F",
-        "display_name": "黄金期货 (GC=F)",
-        "stance": "偏上行",
-        "rationale": "当前价 4399.70，相对 SMA20（4084.76）高出约 7.7%，亦站上 SMA50（4169.27），但低于 SMA200（4478.67）；RSI 14 为 64.9，正常偏强；MACD 17.27 高于信号线 -20.88，柱体转正；近 1 日、5 日分别上涨 3.72%、8.66%，短期动量明显，技术面偏上行。"
-      },
-      {
-        "symbol": "USDCNY=X",
-        "display_name": "美元/人民币 (USDCNY=X)",
-        "stance": "偏下行",
-        "rationale": "当前价 6.75 低于 SMA20（6.76）、SMA50（6.77）与 SMA200（6.90），呈空头排列；RSI 14 为 32.3，接近超卖区；MACD -0.0086 处于信号线下方，偏空运行；距 52 周低点仅 0.16%，近 5 日微跌 0.04%，美元/人民币汇率技术面偏下行。"
-      },
-      {
-        "symbol": "JD",
-        "display_name": "京东 (JD)",
-        "stance": "中性",
-        "rationale": "当前价 32.97 站上 SMA20（31.12）、SMA50（29.03）与 SMA200（29.43），均线结构偏多；但 RSI 14 达 74.3，进入超买区；MACD 1.24 仍高于信号线 1.09，动能尚存；近 5 日 -0.12%、距 52 周高 -10.55%，多空信号混杂，整体技术面中性。"
-      }
-    ],
-    "risk_caveat": "以上内容仅为基于公开行情数据的客观技术指标解读，不构成投资建议。过去走势不代表未来表现，仅供技术指标解读参考。",
+    "market_overview": "",
+    "watchlist": [],
+    "risk_caveat": "以上内容基于公开行情数据的技术指标计算与文本摘要，不构成任何投资建议。过去走势不代表未来表现，市场风险自负。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -363,18 +260,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64929.42,
-        "pct1Day": 0.0758761536965133,
-        "pct5Day": 2.3140573150666692,
-        "pct52WeekHigh": -48.54959350804652,
-        "pct52WeekLow": 12.436245585673383,
-        "sma20": 64405.3126953125,
-        "sma50": 63305.804609375,
-        "sma200": 70252.73392578126,
-        "rsi14": 54.77694697476726,
-        "macd": 124.47982904635865,
-        "macdSignal": 50.28343117649656,
-        "macdHistogram": 74.19639786986208,
+        "currentPrice": 64947.94,
+        "pct1Day": 0.10442107564971827,
+        "pct5Day": 2.3432406396901673,
+        "pct52WeekHigh": -48.53491816475482,
+        "pct52WeekLow": 12.468316090357503,
+        "sma20": 64406.238671875,
+        "sma50": 63306.175,
+        "sma200": 70252.8265234375,
+        "rsi14": 54.8715318384059,
+        "macd": 125.9571705705821,
+        "macdSignal": 50.57889948134125,
+        "macdHistogram": 75.37827108924084,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -391,18 +288,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1914.24,
-        "pct1Day": 0.05020599945704875,
-        "pct5Day": 3.0126912611624235,
-        "pct52WeekHigh": -61.357626662559326,
-        "pct52WeekLow": 27.064902575542867,
-        "sma20": 1895.751416015625,
-        "sma50": 1798.3895458984375,
-        "sma200": 2055.4025134277344,
-        "rsi14": 56.45171017110239,
-        "macd": 21.01573593524222,
-        "macdSignal": 23.773632099634895,
-        "macdHistogram": -2.757896164392676,
+        "currentPrice": 1915.86,
+        "pct1Day": 0.1348773748954,
+        "pct5Day": 3.0998697548952223,
+        "pct52WeekHigh": -61.32492405222486,
+        "pct52WeekLow": 27.172436187928128,
+        "sma20": 1895.8324157714844,
+        "sma50": 1798.4219458007813,
+        "sma200": 2055.4106134033204,
+        "rsi14": 56.64470050764054,
+        "macd": 21.14496631496081,
+        "macdSignal": 23.799478175578614,
+        "macdHistogram": -2.654511860617802,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -413,18 +310,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 74.76,
-        "pct1Day": 1.5172532683276614,
-        "pct5Day": 1.7506924206765246,
-        "pct52WeekHigh": -70.47508805935313,
-        "pct52WeekLow": 23.744676793999876,
-        "sma20": 74.5360107421875,
-        "sma50": 75.21955322265624,
-        "sma200": 83.7838620376587,
-        "rsi14": 50.68407645560469,
-        "macd": -0.6185782931585067,
-        "macdSignal": -0.6579925694788857,
-        "macdHistogram": 0.03941427632037908,
+        "currentPrice": 74.74,
+        "pct1Day": 1.4900950946336058,
+        "pct5Day": 1.723471796700942,
+        "pct52WeekHigh": -70.482986644677,
+        "pct52WeekLow": 23.711572279073696,
+        "sma20": 74.53501052856446,
+        "sma50": 75.21915313720703,
+        "sma200": 83.7837620162964,
+        "rsi14": 50.6179294581591,
+        "macd": -0.6201740755770402,
+        "macdSignal": -0.6583117259625924,
+        "macdHistogram": 0.03813765038555217,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -716,13 +613,13 @@
       "timestamp": "2026-08-08T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2294877041597.769,
-      "total24hVolumeUsd": 50682287693.51637,
-      "marketCapChangePct24h": 0.7811638440137706,
-      "btcDominance": 56.76109618382703,
-      "ethDominance": 10.06203315539721,
-      "activeCryptocurrencies": 18253
+      "totalMarketCapUsd": 2296252066072.344,
+      "total24hVolumeUsd": 49817883569.70658,
+      "marketCapChangePct24h": 0.5098766055387515,
+      "btcDominance": 56.76421025520688,
+      "ethDominance": 10.06687830376026,
+      "activeCryptocurrencies": 18255
     },
-    "generated_at": "2026-08-08T07:58:52.552Z"
+    "generated_at": "2026-08-08T08:58:20.951Z"
   }
 }
